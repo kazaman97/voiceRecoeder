@@ -9,7 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet var statusLabel: UIView!
+    @IBAction func recordingButton(_ sender: Any) {
+    }
 
+    @IBAction func playingButton(_ sender: Any) {
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
