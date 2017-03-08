@@ -69,7 +69,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="statusLabel" destination="8bC-Xf-vdC" id="o8y-jP-X8V"/>
+                        <outlet property="statusLabel" destination="WUT-9g-Pu5" id="WM0-lp-EYt"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
